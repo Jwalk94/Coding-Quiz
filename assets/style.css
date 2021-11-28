@@ -1,0 +1,15 @@
+#main{
+    position: absolute;
+    width: 800px;
+    height: 800px;
+    left: 20%;
+}
+
+#timer{
+    float: right;
+}
+
+#questionsSection{
+    margin: 10px;
+}
+
